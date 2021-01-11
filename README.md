@@ -1,5 +1,7 @@
 # vue-dhtmlx-resize-bug
 
+This code is used only to demonstrate a bug or ask a question to dhtmlx scheduler IT SHOULDN'T BE USED FOR ANY OTHER PURPOSE
+
 ## Project setup
 ```
 npm install
@@ -9,16 +11,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
